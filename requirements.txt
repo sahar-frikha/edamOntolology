@@ -1,0 +1,7 @@
+flask
+rdflib
+sparqlwrapper
+jupyter
+pandas
+seaborn
+werkzeug
